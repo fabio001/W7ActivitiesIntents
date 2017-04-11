@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">w7Aktiviteler</string>
+    <string name="login">Giriş Ekranı</string>
+    <string name="uname">Kullanıcı Adı</string>
+    <string name="pass">Şifre</string>
+    <string name="btnlogin">Giriş Yap</string>
+</resources>
